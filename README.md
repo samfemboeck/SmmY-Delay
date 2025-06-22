@@ -1,5 +1,5 @@
 # SmmY Delay
 A basic but functional IPlug2 Delay Effect.
 
-https://github.com/user-attachments/assets/2a198fe0-9642-499c-8b97-5ad50499c97d
+https://github.com/user-attachments/assets/7c2fa91c-7a9c-4240-9a35-6d1c3ef3443d
 
