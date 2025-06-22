@@ -1,0 +1,71 @@
+# Build artefacts
+*.app/
+*.exe
+*.dll
+*.dylib
+*.a
+*.lib
+*.so
+*.bundle
+*.component
+*.vst3
+*.nib
+
+# Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.vcxproj.*
+*.vcxproj.filters
+*.pdb
+*.ipch
+*.obj
+*.log
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.opensdf
+*.sdf
+*.cache
+*.ilk
+
+# Xcode
+build/
+*.xcuserstate
+*.xcworkspace/
+*.xcodeproj/*
+!*.xcodeproj/project.pbxproj
+!*.xcodeproj/xcshareddata/
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# iPlug2 SDK-specific
+Dependencies/IPlug/SDKs/
+Dependencies/build/
+dependencies/
+*.ninja
+*.stamp
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup files
+*~
+*.bak
+*.tmp
+
+# Web-export output
+html/
